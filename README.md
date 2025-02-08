@@ -4,7 +4,7 @@
 - 📫 How to reach me = chigozirimuzodinma23@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... i am a privacy oreinted individual
-
+- Experienced data scientist and machine learning engineer at META
 <!---
 cloudcoder88/cloudcoder88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
