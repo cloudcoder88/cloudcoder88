@@ -5,5 +5,4 @@
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... i am a privacy oreinted individual
 - Experienced data scientist and machine learning engineer at META
-- you can also contact me through my second email address=btech4104@gmail.com
--personal webiste=https://upgraded-octo-enigma.pages.dev/
+-personal webiste=https://cloudcoder88.github.io/Angular_site2/
