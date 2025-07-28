@@ -4,5 +4,5 @@
 - 📫 How to reach me = chigozirimuzodinma23@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... i am a privacy oreinted individual
-- Experienced data scientist and machine learning engineer at META
--personal webiste=https://cloudcoder88.github.io/Angular_site2/
+- Experienced data scientist and machine learning engineer 
+-personal website=https://cloudcoder88.github.io/Angular_site2/
