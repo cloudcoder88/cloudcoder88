@@ -5,4 +5,4 @@
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... i am a privacy oreinted individual
 - Experienced data scientist and machine learning engineer 
--personal website=https://cloudcoder88.github.io/uzodinmabrightweb/
+-personal website=https://cloudcoder88.github.io/main-portfolio/
